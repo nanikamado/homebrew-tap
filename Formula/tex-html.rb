@@ -6,7 +6,8 @@ class TexHtml < Formula
   depends_on "ruby"
   depends_on "pandoc"
   depends_on "pandoc-crossref"
-  depends_on "pandoc-crossref"
+  depends_on "nanikamado/tap/pandoc-asciimath-filter"
+  depends_on "nanikamado/tap/pandoc-katex"
 
   def install
     bin.install_symlink "tex-html"
