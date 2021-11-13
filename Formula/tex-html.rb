@@ -1,5 +1,5 @@
 class TexHtml < Formula
-  url "https://github.com/nanikamado/tex-html.git"
+  url "https://github.com/nanikamado/tex-html.git#main"
   version "0.1.0"
   license "MIT"
 
