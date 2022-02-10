@@ -2,7 +2,7 @@ require "language/node"
 
 class PandocKatex < Formula
   url "https://github.com/nanikamado/node-pandoc-katex.git"
-  version "0.2.0"
+  version "0.3.0"
   license "MIT"
 
   depends_on "node"
